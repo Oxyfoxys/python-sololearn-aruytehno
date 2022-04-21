@@ -59,13 +59,13 @@ Floats
 
 
 if __name__ == '__main__':
-    # # 1.1
-    # welcome_to_python()
-    # # 1.2
-    # your_first_program()
-    # # 2.1
-    # simple_operations()
-    # # 2.2
+    # 1.1
+    welcome_to_python()
+    # 1.2
+    your_first_program()
+    # 2.1
+    simple_operations()
+    # 2.2
     brain_freeze()
     # 3.1
-    # floats()
+    floats()
