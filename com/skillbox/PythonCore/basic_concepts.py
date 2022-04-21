@@ -19,7 +19,7 @@ Hint
 Use print() function.
     """
     print(your_first_program.__doc__)
-    print("Python is fun")
+    print("print: \"Python is fun\"")
 
 
 def simple_operations():
@@ -28,7 +28,7 @@ def simple_operations():
 Simple Operations
     """
     print(simple_operations.__doc__)
-    print(2 + 2)
+    print('2 + 2 =', 2 + 2)
 
 
 def brain_freeze():
@@ -45,7 +45,7 @@ Write a program to calculate and output the total number of ice cream scoops we 
     """
     print(brain_freeze.__doc__)
     print('#your code goes here')
-    print(2 + 2)
+    print('2 + 2 =', 2 + 2)
 
 
 def floats():
