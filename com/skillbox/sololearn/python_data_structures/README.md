@@ -1,0 +1,2 @@
+# Python Data Structures
+Almost no program can work properly without data. Python has a number of built-in data structures, which allow you to store, organize, and manage your data. In this course, we will learn about different Python Data Structures such as strings, lists, dictionaries, tuples, sets, and much more.

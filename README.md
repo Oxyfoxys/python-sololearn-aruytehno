@@ -19,3 +19,9 @@
 - Math Operations with NumPy
 - Data Manipulation with Pandas
 - Visualization with Matplotlib
+
+# Python Data Structures
+- Working with Strings
+- Lists
+- Dictionaries, Tuples, Sets
+- User-Defined Data Structures
