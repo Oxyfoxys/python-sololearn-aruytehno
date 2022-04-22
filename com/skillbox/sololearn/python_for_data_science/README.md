@@ -1,0 +1,2 @@
+# Python for Data Science
+Python is widely used in data science and has a robust suite of powerful tools to communicate with data. In this course, you will learn about different Python libraries used for data manipulation and visualization such as numpy, pandas, matplotlib and more.
