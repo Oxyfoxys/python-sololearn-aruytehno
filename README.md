@@ -3,6 +3,14 @@
   <img src="https://www.python.org/static/img/python-logo@2x.png" alt="Python" width="320" height="auto">
 </p>
 
+# Python for Beginners
+- Basic Concepts
+- Strings
+- Variables
+- Control Flow
+- Lists
+- Functions
+
 # Python Core
 - Basic Concepts ✅
 - Strings & Variables
