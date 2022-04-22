@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/2560px-SoloLearn_logo.svg.png?20210710155454" alt="Фотография 1" width="220" height="auto" hspace="20">
-  <img src="https://www.python.org/static/img/python-logo@2x.png" alt="Фотография 1" width="220" height="auto">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/2560px-SoloLearn_logo.svg.png?20210710155454" alt="SoloLearn" width="320" height="auto" hspace="20">
+  <img src="https://www.python.org/static/img/python-logo@2x.png" alt="Python" width="320" height="auto">
 </p>
 
 # Python Core
