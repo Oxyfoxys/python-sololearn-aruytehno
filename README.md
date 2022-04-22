@@ -15,11 +15,12 @@
 - Regular Expressions
 - Pythonicness & Packaging
 
-# Python for Data Science
-- Introduction
-- Math Operations with NumPy
-- Data Manipulation with Pandas
-- Visualization with Matplotlib
+# Intermediate Python
+- Collection Types
+- Functional Programming
+- OOP
+- Exceptions
+- Working with Files
 
 # Python Data Structures
 - Working with Strings
@@ -32,6 +33,12 @@
 - Basic Calculations
 - Accessing Data
 - Analyzing Data
+
+# Python for Data Science
+- Introduction
+- Math Operations with NumPy
+- Data Manipulation with Pandas
+- Visualization with Matplotlib
 
 # Useful links
 [Metanit](https://metanit.com/python/)  
