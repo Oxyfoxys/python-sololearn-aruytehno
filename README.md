@@ -32,3 +32,6 @@
 - Basic Calculations
 - Accessing Data
 - Analyzing Data
+
+# Useful links
+[Metanit](https://metanit.com/python/)  
