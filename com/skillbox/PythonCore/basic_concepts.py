@@ -146,23 +146,23 @@ For example, if we want to calculate how much money we will have on the 5th day,
 
 
 if __name__ == '__main__':
-    # 1.1
+    # 1.1 Lesson
     welcome_to_python()
-    # 1.2
+    # 1.2 Practice
     your_first_program()
-    # 2.1
+    # 2.1 Lesson
     simple_operations()
-    # 2.2
+    # 2.2 Practice
     brain_freeze()
-    # 3.1
+    # 3.1 Lesson
     floats()
-    # 4.1
+    # 4.1 Lesson
     exponentiation()
-    # 5.1
+    # 5.1 Lesson
     quotient_and_remainder()
-    # 5.2
+    # 5.2 Practice
     how_many_miles()
-    # 6.1
+    # 6.1 Lesson
     module_1_quiz()
     # 7 Code project
     code_project_exponentiation()
