@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://sololearnuploads.azureedge.net/uploads/courses/1073.png">
+  <img src="https://www.python.org/static/img/python-logo@2x.png">
 </p>
 
 # Python Core
